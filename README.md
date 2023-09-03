@@ -1,4 +1,4 @@
 ## Prerequisite
   1. MacOS
   2. Python intepreter: 'python 3.11.0'
-  3. Obtain GCP Service Account Key JSON and export to your enviroment
+  3. Apply GCP Service Account Key and export to your enviroment
