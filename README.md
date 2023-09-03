@@ -1,5 +1,3 @@
-#Installation
-
 ## Prerequisite
   1. MacOS
   2. Python intepreter: 'python 3.11.0'
