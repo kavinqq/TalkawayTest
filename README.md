@@ -1,11 +1,6 @@
-Installation
-<br/>
+#Installation
 
-
-# Project Setup Instructions
-
-## 1. Obtain GCP Service Account Key JSON
-Before running this project, it's essential to apply for and obtain a GCP Service Account Key in the JSON format.
-
-## 2. Export JSON to Your Environment
-export GOOGLE_APPLICATION_CREDENTIALS = "yourjson"
+## Prerequisite
+  1. MacOS
+  2. Python intepreter: 'python 3.11.0'
+  3. Obtain GCP Service Account Key JSON and export to your enviroment
